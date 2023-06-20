@@ -2,8 +2,8 @@
 
 ## **Startkit**
 
-  <a href="https://codeberg.org/oomfie/Dotfiles/src/branch/main/LICENSE">
-    <img src="https://img.shields.io/static/v1?label=License&message=GPL-3&color=FFB5A7&style=for-the-badge"></a>
+  <a href="">
+    <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=FFB5A7&style=for-the-badge"></a>
 </div>
 &nbsp;
 
